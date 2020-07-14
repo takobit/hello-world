@@ -1,3 +1,7 @@
 <?php
-  phpinfo();
+  $sum = 0;
+  $x = 1;
+  $y = 1;
+  $sum = $x + $y;
+  echo $sum;
 ?>
