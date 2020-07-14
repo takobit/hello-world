@@ -1,7 +1,7 @@
 <?php
   $sum = 0;
-  $x = 1;
-  $y = 1;
+  $x = 10;
+  $y = 20;
   $sum = $x + $y;
   echo $sum;
 ?>
